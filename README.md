@@ -4,7 +4,7 @@ A simple, interactive web tool that extracts the top-level domain (TLD) from a U
 
 ## 🚀 Live Demo
 
-Check out the live demo: [https://www.xn--msiu-goa8b.vn/github/geography-url-domain](https://www.xn--msiu-goa8b.vn/github/geography-url-domain)
+Check out the live demo: [https://www.sieu.io.vn/github/geography-url-domain](https://www.sieu.io.vn/github/geography-url-domain)
 
 ## ✨ Features
 
